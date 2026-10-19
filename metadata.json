@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Sự Thức Giấc Của Tiny - Chúc Mừng 20/10",
+  "description": "Trang web thiệp chúc mừng 20/10 tương tác với câu chuyện robot Tiny thức giấc, cỏ 4 lá may mắn, hiệu ứng vũ trụ và tùy chỉnh gửi tặng riêng cho người thương.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
